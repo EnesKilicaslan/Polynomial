@@ -1,2 +1,13 @@
 # Polynomial
-Polynomial addition , substruction, multiplication , equals
+
+This program has the following capabilities:
+
+      Polynomial addition 
+      Polynomial substruction 
+      Polynomial multiplication 
+      Polynomial equals
+      
+  And Coded in Java
+      
+
+
